@@ -1,2 +1,1 @@
-create database mydata;
-use mydata;
+ SELECT * FROM mydata.hospital;
